@@ -129,9 +129,6 @@ p{
     }
 }
 @media only screen and (max-width: 998px){
-    .main-content-header{
-        transform: translate(-50%,-40%);
-    }
     .row{
         margin:0 30px;
     } 
@@ -153,9 +150,6 @@ p{
     }
 }
 @media only screen and (max-width: 768px){
-    .main-content-header{
-        transform: translate(-40%,-20%);
-    }
     .row{
         margin:0 20px;
     } 
